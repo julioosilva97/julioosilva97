@@ -1,4 +1,11 @@
-### Hi there 👋
+### Salve ! :call_me_hand:
+
+- I’m currently working on **PHP web developer**;
+- I’m currently learning **mobile development with kotlin**;
+- I have knowledge in Front-End : **JavaScript, Jquery, Bootstrap, css, HTML, sass, thymeleaf and JSTL with EL**;
+- I have knowledge in Back-End : **Java, PHP , c# and phyton**; 
+
+
 
 <!--
 **julioosilva97/julioosilva97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
