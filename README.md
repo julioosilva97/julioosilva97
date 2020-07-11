@@ -1,5 +1,5 @@
 ### Salve ! :call_me_hand:
-
+- :brazil: 
 - I’m currently working on **PHP web developer**;
 - I’m currently learning **mobile development with kotlin**;
 - I have knowledge in Front-End : **JavaScript, Jquery, Bootstrap, css, HTML, sass, thymeleaf and JSTL with EL**;
