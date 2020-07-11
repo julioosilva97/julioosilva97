@@ -6,7 +6,7 @@
 - I have knowledge in Back-End : **Java, PHP , c# and phyton**; 
 - Email : julioosilva97@gmail.com
 
-<a href="https://www.linkedin.com/in/julioosilva97/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2s4pp2Mcsxotzzakq2-dqtoe5CG_XkKyb4NTv3SpHzjmKN6Q&s" height="50" width="50" /> </a> <a href="https://www.linkedin.com/in/julioosilva97/" > <img src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" height="50" width="50" /> </a>
+<a href="https://www.linkedin.com/in/julioosilva97/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2s4pp2Mcsxotzzakq2-dqtoe5CG_XkKyb4NTv3SpHzjmKN6Q&s" height="50" width="50" /> </a> <a href="https://api.whatsapp.com/send?phone=5511977687965" > <img src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" height="50" width="50" /> </a>
 
 
 
